@@ -8,7 +8,7 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: main
+    branch: backstage
   secretRef:
     name: flux-system
   url: https://github.com/Sarrez/GitOps-Sarrez.git
